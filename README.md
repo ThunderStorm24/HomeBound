@@ -1,17 +1,14 @@
 # mapa
 
-A new Flutter project.
+Introducing Home Distance Tracker, a convenient mobile app that helps you monitor the distance between your home and your current location.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Here's how it works: simply input your home address into the app, and it will use GPS technology to determine your current location. The app continuously calculates the distance between your current location and your home, providing you with real-time updates.
 
-A few resources to get you started if this is your first Flutter project:
+But that's not all! Home Distance Tracker also offers a notification feature. You can set a specific distance threshold, and whenever you come within that distance of your home, the app will send you a notification. This way, you'll receive timely reminders when you're getting close to your desired location.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Photo from app:
 <img src="https://raw.githubusercontent.com/ThunderStorm24/HomeBound/master/HomeBoundPhoto.png" alt="Tekst alternatywny" width="50%" height="auto">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
