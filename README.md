@@ -16,6 +16,6 @@ But that's not all! Home Distance Tracker also offers a notification feature. Yo
 
 Photo from app:
 
-<img src="https://raw.githubusercontent.com/ThunderStorm24/HomeBound/master/HomeBoundPhoto.png" alt="Tekst alternatywny" width="50%" height="auto">
+<img src="https://github.com/ThunderStorm24/HomeBound/blob/master/HomeBoundPhoto.jpg" alt="Tekst alternatywny" width="50%" height="auto">
 
 Note: The provided screenshot showcases the app's interface, allowing you to visualize its user-friendly design and the convenience it offers.
