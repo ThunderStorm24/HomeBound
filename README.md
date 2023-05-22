@@ -1,8 +1,8 @@
-# mapa
+# What is HomeBound?
 
 Introducing Home Distance Tracker, a convenient mobile app that helps you monitor the distance between your home and your current location.
 
-## Getting Started
+## How it Works?
 
 Here's how it works:
 
