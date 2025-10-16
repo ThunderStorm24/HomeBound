@@ -1,5 +1,8 @@
 # What is HomeBound?
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) 
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+
 Introducing Home Distance Tracker, a convenient mobile app that helps you monitor the distance between your home and your current location.
 
 ## How it Works?
