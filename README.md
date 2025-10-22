@@ -17,7 +17,7 @@ Here's how it works:
 
 But that's not all! Home Distance Tracker also offers a notification feature. You can set a specific distance threshold, and whenever you come within that distance of your home, the app will send you a notification. This way, you'll receive timely reminders when you're getting close to your desired location.
 
-Photo from app:
+Example:
 
 <div align="center">
 <img src="https://github.com/ThunderStorm24/HomeBound/blob/master/HomeBoundPhoto.jpg" alt="Tekst alternatywny" width="50%" height="auto">
